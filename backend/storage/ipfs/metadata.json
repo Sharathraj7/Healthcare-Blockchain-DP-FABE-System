@@ -1,0 +1,86 @@
+{
+  "QmNmgvHznnHofD8boeKLMNPQRSTUVWXYZabcdefghijkmn": {
+    "cid": "QmNmgvHznnHofD8boeKLMNPQRSTUVWXYZabcdefghijkmn",
+    "hash": "4fda6135f8e7dba1be2ed4f4b5d02ed392d8b71890c51587dabf092e812c0254",
+    "size": 6935,
+    "storedAt": "2026-10-08T10:07:11.684Z",
+    "originalFilename": "medical_record_4763c68f-a427-4603-8eec-aaa215218f81.enc",
+    "encryptionInfo": {
+      "algorithm": "DP-FABE-AES-256-GCM",
+      "isEncrypted": true,
+      "note": "Only encrypted data stored in IPFS simulation"
+    },
+    "implementationStatus": "SIMULATED",
+    "productionNote": "Phase 2: Pin to actual IPFS network via Pinata/Infura"
+  },
+  "Qm21sGQn9tYUsBFfEoKLMNPQRSTUVWXYZabcdefghijkmn": {
+    "cid": "Qm21sGQn9tYUsBFfEoKLMNPQRSTUVWXYZabcdefghijkmn",
+    "hash": "af3a6c83ffa108331f556c7ebc2681681c72093f30f18ea873cd242489f3e150",
+    "size": 3999,
+    "storedAt": "2026-10-08T10:07:11.688Z",
+    "originalFilename": "TABLE_OF_CONTENTS_updated.pdf",
+    "encryptionInfo": {
+      "algorithm": "AES-256-GCM",
+      "isEncrypted": true,
+      "note": "Only encrypted data stored in IPFS simulation"
+    },
+    "implementationStatus": "SIMULATED",
+    "productionNote": "Phase 2: Pin to actual IPFS network via Pinata/Infura"
+  },
+  "QmnWus7PmjKBjqGQA7KLMNPQRSTUVWXYZabcdefghijkmn": {
+    "cid": "QmnWus7PmjKBjqGQA7KLMNPQRSTUVWXYZabcdefghijkmn",
+    "hash": "db91e26c0650669e4cf22a6a498bb77a1a480b2d0331944d7856c5af97d2ccf4",
+    "size": 6819,
+    "storedAt": "2026-10-08T10:12:37.786Z",
+    "originalFilename": "medical_record_6559ccea-e381-4dee-8f6b-1850b907d6cd.enc",
+    "encryptionInfo": {
+      "algorithm": "DP-FABE-AES-256-GCM",
+      "isEncrypted": true,
+      "note": "Only encrypted data stored in IPFS simulation"
+    },
+    "implementationStatus": "SIMULATED",
+    "productionNote": "Phase 2: Pin to actual IPFS network via Pinata/Infura"
+  },
+  "Qm8Dr6qF13nMVpuYFjKLMNPQRSTUVWXYZabcdefghijkmn": {
+    "cid": "Qm8Dr6qF13nMVpuYFjKLMNPQRSTUVWXYZabcdefghijkmn",
+    "hash": "eff46b3fa4bc74b067141cdde2cd0e2a54f128bcfd1640c34193631f678ed987",
+    "size": 3999,
+    "storedAt": "2026-10-08T10:12:37.789Z",
+    "originalFilename": "TABLE_OF_CONTENTS_updated1.pdf",
+    "encryptionInfo": {
+      "algorithm": "AES-256-GCM",
+      "isEncrypted": true,
+      "note": "Only encrypted data stored in IPFS simulation"
+    },
+    "implementationStatus": "SIMULATED",
+    "productionNote": "Phase 2: Pin to actual IPFS network via Pinata/Infura"
+  },
+  "Qmm1GQP812iMuXJoLqKLMNPQRSTUVWXYZabcdefghijkmn": {
+    "cid": "Qmm1GQP812iMuXJoLqKLMNPQRSTUVWXYZabcdefghijkmn",
+    "hash": "2cae49178a07e8afd7c2a85885a2c1de05b2db1c301a8c701d8923411f804b8b",
+    "size": 504063,
+    "storedAt": "2026-10-08T14:44:38.211Z",
+    "originalFilename": "medical_record_32919c20-2f8e-4e9e-877e-d5286c7ca6cc.enc",
+    "encryptionInfo": {
+      "algorithm": "DP-FABE-AES-256-GCM",
+      "isEncrypted": true,
+      "note": "Only encrypted data stored in IPFS simulation"
+    },
+    "implementationStatus": "SIMULATED",
+    "productionNote": "Phase 2: Pin to actual IPFS network via Pinata/Infura"
+  },
+  "QmuA8F9fMcLJa2H7n2KLMNPQRSTUVWXYZabcdefghijkmn": {
+    "cid": "QmuA8F9fMcLJa2H7n2KLMNPQRSTUVWXYZabcdefghijkmn",
+    "hash": "a8f1b548f0d4fcd1c185953bf8b42d3b4e7f3095d96b3356966f22d09692bb52",
+    "size": 501839,
+    "storedAt": "2026-10-08T14:44:38.220Z",
+    "originalFilename": "ack.pdf",
+    "encryptionInfo": {
+      "algorithm": "AES-256-GCM",
+      "isEncrypted": true,
+      "note": "Only encrypted data stored in IPFS simulation"
+    },
+    "implementationStatus": "SIMULATED",
+    "productionNote": "Phase 2: Pin to actual IPFS network via Pinata/Infura"
+  }
+}

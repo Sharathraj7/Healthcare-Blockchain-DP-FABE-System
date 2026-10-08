@@ -1,0 +1,161 @@
+[
+  {
+    "id": "ed92bcf0-05bb-43fb-bdd2-dc498057e66c",
+    "recordId": "d203aa38-f909-404d-aafa-15ffdf5bffb9",
+    "patientId": "4f1a9e53-3f18-42d3-960e-53dbba3af1e3",
+    "dualCiphertextId": "15e8be32-0ec6-4536-a6c6-03a08f345372",
+    "keyMaterial": {
+      "wrappedDataKey": {
+        "ciphertext": "w0aiD7ZHA00ldFwy/4ZUCYxJVDOUGnVf1OWLrvZYAboHpAj0t0+0zIMvuNSJ093fZke3JW2BtnwEAb89zBFeAg==",
+        "iv": "5a54816559c8ace2f2eed0d2",
+        "authTag": "f4c6abe7b773ffe9d458fa2c4b63cca1",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "a91bf3189f48df28a8512c4d4518429358233e702cf83edf10ecc9a9dfadd1a8",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "703c7c611c539fe54062413581ed275941134bdde3d6bfd0b8e9021448a1d559"
+      },
+      "wrappedFileKey": null,
+      "hasFile": false
+    },
+    "createdAt": "2026-10-06T13:21:12.724Z",
+    "updatedAt": "2026-10-06T13:21:12.724Z"
+  },
+  {
+    "id": "8b37fcf7-924b-47e9-b084-1a7ab204f4a9",
+    "recordId": "19a6af5e-be3c-49df-98c9-1747a2df42f2",
+    "patientId": "f895b407-b40f-43bf-9f3d-b90fb88d4be7",
+    "dualCiphertextId": "35bcc559-e9d7-4747-a797-392364c6fec1",
+    "keyMaterial": {
+      "wrappedDataKey": {
+        "ciphertext": "YzVTrLJrySDkRsf633VfRMYaEQRD5a3IBx+brikbiIXbrvjSY9X+djAjkBcW5e5WYHtuCTfwh4wqyYDmvh3q3A==",
+        "iv": "24117d6f8b8298918327fc30",
+        "authTag": "a705089f5a3974500b69d073a6e37c9f",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "0b3eb6c28458dec3965e6ffffdd8faf1b37899f245491dbef608426901c85d6d",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "0c2274aab288e85dc6390e1a7e5ff31d68bd72b6582ef3fe5bc0c78421167f62"
+      },
+      "wrappedFileKey": null,
+      "hasFile": false
+    },
+    "createdAt": "2026-10-06T13:22:08.785Z",
+    "updatedAt": "2026-10-06T13:22:08.786Z"
+  },
+  {
+    "id": "ae9fa139-052c-4c4c-be92-ee29ca90ed8e",
+    "recordId": "4763c68f-a427-4603-8eec-aaa215218f81",
+    "patientId": "a77c4cab-4dd3-4bea-a1e2-085870e98dc6",
+    "dualCiphertextId": "3e57199c-4b2c-49a9-98d1-e28e5fab1a37",
+    "keyMaterial": {
+      "wrappedDataKey": {
+        "ciphertext": "cYZaHdpDiZKLtKwyiucwm8gtHlciD6oSUk2g72/Qs9zV2fJdlM2EuOy6haPQYDxpHg0sMqNGeTAWPQrouzyAhA==",
+        "iv": "94671bf22e3a2f8d9fb235a2",
+        "authTag": "e692ec41285f0f1a25949ddc098b8922",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "15a2675283b2a15468530f77633753616b159807e860a42d8bbdc5168e0a1729",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "c4f7c0991bb57a506b7d39633b80622dd98c0264833938b58c7480313cea64b3"
+      },
+      "wrappedFileKey": {
+        "ciphertext": "tqgV8cXQ+yG4X86SwfJh/IuIPRePyqUG2bbz97OmmesXiEMB6unFZ2PbTPlae2qZC2tAw8bytj+e7jQv4oIh6w==",
+        "iv": "3f1acc10c9b0c949a526e8d0",
+        "authTag": "322d56ff3c59f38e9614569110911512",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "f2274c7928c50f7f02f8ec332bfe8cbeab560bdb7ea03f39ab12537fcd146a13",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "6da801e1451e364ff1ba19494c8a4f834262ae1e5d9377d859264a7a9e609d0d"
+      },
+      "hasFile": true
+    },
+    "createdAt": "2026-10-08T10:07:11.679Z",
+    "updatedAt": "2026-10-08T10:07:11.681Z"
+  },
+  {
+    "id": "b7aa063e-a290-4a40-bc06-90727d1adad2",
+    "recordId": "6559ccea-e381-4dee-8f6b-1850b907d6cd",
+    "patientId": "a77c4cab-4dd3-4bea-a1e2-085870e98dc6",
+    "dualCiphertextId": "79459753-3f48-4005-bc5a-f0d87c4d41ab",
+    "keyMaterial": {
+      "wrappedDataKey": {
+        "ciphertext": "xQDX/M62D/3GROFYhiC4RmIAkiSg/LHyB4QmCGluJ0B9vInkQY7CLeQy8mVVV747nvY+VvhTyz/CI31lY/85Lg==",
+        "iv": "a1d95cda682e4f8e8d343109",
+        "authTag": "1e1b5c7039982d89578b1302535bd54b",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "174a5a5f298867b890c868acf9a31ff26e6cb13cd52af21183887f3bb15ff637",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "85baf935e1b0e50b333a33cfa1490748b6d186449735dc97375eea9bf942a661"
+      },
+      "wrappedFileKey": {
+        "ciphertext": "7ailHJTCy4RAOx3MCy4y3bxO2pt4V6EXMROs6SWVdMhtdPz1tIqjzd6iK/75swK5VelaOXpnxbiHA1+9qSlnpw==",
+        "iv": "0a6c4942f570fc0ef620e869",
+        "authTag": "94c831170dedc978521983ebf025e7cc",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "70048a68233140b13f281132b8034c4f8192790ad220da239c0ca4a2cdf753fe",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "23e00644604a1b30260165c60368667c9209837b7eb1ab850605b7cddf2481a5"
+      },
+      "hasFile": true
+    },
+    "createdAt": "2026-10-08T10:12:37.783Z",
+    "updatedAt": "2026-10-08T10:12:37.784Z"
+  },
+  {
+    "id": "d6ace903-0492-4917-8894-d68eeb7811f5",
+    "recordId": "c749f911-b480-4e7e-8a50-e0ff953122a7",
+    "patientId": "a5243898-d9d6-498d-8c3d-dc2101aed547",
+    "dualCiphertextId": "edc121e5-bc36-47e5-9a4c-8555fee10eec",
+    "keyMaterial": {
+      "wrappedDataKey": {
+        "ciphertext": "kXTvOpurfVQl7whBXlFvFa487lkSkfpd7TGnlD9/c9YQ7fYHfD1e9KXKV904HU2q378y2vqEahUCyAASEFYiFg==",
+        "iv": "9b8b6efc0ea784f2ca2e6cab",
+        "authTag": "ff5bba072facb151bbc669dac967981f",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "1b5634334422a1d2c445eaab437148d3da4a28a46b6b77a15c2193895fd23507",
+        "encryptionTimeMs": 1,
+        "wrappingSalt": "e0a00fec6017538d422a8979eb1d83a2bdeb349fcad1dd5eccce2ab10f57c7a2"
+      },
+      "wrappedFileKey": null,
+      "hasFile": false
+    },
+    "createdAt": "2026-10-08T10:31:35.400Z",
+    "updatedAt": "2026-10-08T10:31:35.401Z"
+  },
+  {
+    "id": "363efa37-ae27-4d4f-af2c-884370b31dd3",
+    "recordId": "32919c20-2f8e-4e9e-877e-d5286c7ca6cc",
+    "patientId": "d1cfe0dc-9be5-4036-9c70-0455ab0d34d3",
+    "dualCiphertextId": "5b82d846-b2a9-4b70-b297-0c240d619a7c",
+    "keyMaterial": {
+      "wrappedDataKey": {
+        "ciphertext": "XNre3Da6mc83QcecdAeeg+oxXaQnu6Nrj46T/71Jd1waIhBIU6cbsRzdkci5ff5yqmnLZ+cB0gCxs8zM98hkmw==",
+        "iv": "3d6283664164e244aa2d7d46",
+        "authTag": "23db9d271c432d9fedb8053ef538ed00",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "b85db09661ce5d862db94e9b1c0df9687816fe971a09845612861b3c412bbdc8",
+        "encryptionTimeMs": 1,
+        "wrappingSalt": "f1acf926e109d9cf6d38e40db3b217bcf5a3424f37f4aca51bed97d8def26f1f"
+      },
+      "wrappedFileKey": {
+        "ciphertext": "1wSbA6xvJ6MWu/eDt3LFdSD3mMCCRBD/6+vk3FQ4R9EpccPvHZRNT7CYvifgBMknq46ZHdcMeiGZz22osN+DjQ==",
+        "iv": "4657f961d6180d89077241db",
+        "authTag": "b7d6344da536c68fbb85ae7d50858cf3",
+        "algorithm": "aes-256-gcm",
+        "keyLength": 256,
+        "salt": "66180fd1ceb312704168186b9c1b7d40130f4ee408d552e3684083125c8740a8",
+        "encryptionTimeMs": 0,
+        "wrappingSalt": "8f4835fad66863a1075c852321e755699672302a3597c2c74c9a32efa6ae6973"
+      },
+      "hasFile": true
+    },
+    "createdAt": "2026-10-08T14:44:38.201Z",
+    "updatedAt": "2026-10-08T14:44:38.203Z"
+  }
+]

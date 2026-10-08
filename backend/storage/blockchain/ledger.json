@@ -1,0 +1,102 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-10-06T13:23:57.735Z",
+    "transactions": [
+      {
+        "transactionId": "genesis",
+        "type": "GENESIS",
+        "message": "Healthcare Blockchain System - Phase 1 Genesis Block",
+        "systemInfo": {
+          "name": "HealthChain",
+          "version": "1.0.0-prototype",
+          "status": "SIMULATED"
+        }
+      }
+    ],
+    "previousHash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 0,
+    "hash": "068e603ab66552c1f4bfa172aab5961254a491e5cee85cbf14f048808a70fe34"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-10-08T10:07:11.692Z",
+    "transactions": [
+      {
+        "transactionId": "f50698af-02b6-442c-915b-ef6b2513ce8b",
+        "type": "MEDICAL_RECORD_CREATED",
+        "actorId": "a77c4cab-4dd3-4bea-a1e2-085870e98dc6",
+        "patientId": "a77c4cab-4dd3-4bea-a1e2-085870e98dc6",
+        "timestamp": "2026-10-08T10:07:11.692Z",
+        "metadata": {
+          "recordId": "4763c68f-a427-4603-8eec-aaa215218f81",
+          "dualCiphertextId": "3e57199c-4b2c-49a9-98d1-e28e5fab1a37",
+          "ipfsCid": "QmNmgvHznnHofD8boeKLMNPQRSTUVWXYZabcdefghijkmn",
+          "ipfsHash": "4fda6135f8e7dba1be2ed4f4b5d02ed392d8b71890c51587dabf092e812c0254",
+          "fileIpfsCid": "Qm21sGQn9tYUsBFfEoKLMNPQRSTUVWXYZabcdefghijkmn",
+          "policyExpression": "ROLE == DOCTOR",
+          "hasFile": true,
+          "dataHash": "4fda6135f8e7dba1be2ed4f4b5d02ed392d8b71890c51587dabf092e812c0254",
+          "encryptionAlgorithm": "DP-FABE-AES-256-GCM"
+        }
+      }
+    ],
+    "previousHash": "068e603ab66552c1f4bfa172aab5961254a491e5cee85cbf14f048808a70fe34",
+    "hash": "00ad5d1892a5cd3541ba2ceb5c15f608995205906d9d88e22d3bf4711049c8c9",
+    "nonce": 375
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-10-08T10:12:37.792Z",
+    "transactions": [
+      {
+        "transactionId": "d2017343-79cc-41d0-8be9-3b993267a885",
+        "type": "MEDICAL_RECORD_CREATED",
+        "actorId": "a77c4cab-4dd3-4bea-a1e2-085870e98dc6",
+        "patientId": "a77c4cab-4dd3-4bea-a1e2-085870e98dc6",
+        "timestamp": "2026-10-08T10:12:37.792Z",
+        "metadata": {
+          "recordId": "6559ccea-e381-4dee-8f6b-1850b907d6cd",
+          "dualCiphertextId": "79459753-3f48-4005-bc5a-f0d87c4d41ab",
+          "ipfsCid": "QmnWus7PmjKBjqGQA7KLMNPQRSTUVWXYZabcdefghijkmn",
+          "ipfsHash": "db91e26c0650669e4cf22a6a498bb77a1a480b2d0331944d7856c5af97d2ccf4",
+          "fileIpfsCid": "Qm8Dr6qF13nMVpuYFjKLMNPQRSTUVWXYZabcdefghijkmn",
+          "policyExpression": "ROLE == DOCTOR",
+          "hasFile": true,
+          "dataHash": "db91e26c0650669e4cf22a6a498bb77a1a480b2d0331944d7856c5af97d2ccf4",
+          "encryptionAlgorithm": "DP-FABE-AES-256-GCM"
+        }
+      }
+    ],
+    "previousHash": "00ad5d1892a5cd3541ba2ceb5c15f608995205906d9d88e22d3bf4711049c8c9",
+    "hash": "00e5c988472a6cdc7cdd4865558b55a5ed2a1dbcf3a96777917385fb505844e3",
+    "nonce": 485
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-10-08T14:44:38.228Z",
+    "transactions": [
+      {
+        "transactionId": "4abc6902-b636-4053-9d84-a2e484cbacfb",
+        "type": "MEDICAL_RECORD_CREATED",
+        "actorId": "d1cfe0dc-9be5-4036-9c70-0455ab0d34d3",
+        "patientId": "d1cfe0dc-9be5-4036-9c70-0455ab0d34d3",
+        "timestamp": "2026-10-08T14:44:38.228Z",
+        "metadata": {
+          "recordId": "32919c20-2f8e-4e9e-877e-d5286c7ca6cc",
+          "dualCiphertextId": "5b82d846-b2a9-4b70-b297-0c240d619a7c",
+          "ipfsCid": "Qmm1GQP812iMuXJoLqKLMNPQRSTUVWXYZabcdefghijkmn",
+          "ipfsHash": "2cae49178a07e8afd7c2a85885a2c1de05b2db1c301a8c701d8923411f804b8b",
+          "fileIpfsCid": "QmuA8F9fMcLJa2H7n2KLMNPQRSTUVWXYZabcdefghijkmn",
+          "policyExpression": "ROLE == DOCTOR",
+          "hasFile": true,
+          "dataHash": "2cae49178a07e8afd7c2a85885a2c1de05b2db1c301a8c701d8923411f804b8b",
+          "encryptionAlgorithm": "DP-FABE-AES-256-GCM"
+        }
+      }
+    ],
+    "previousHash": "00e5c988472a6cdc7cdd4865558b55a5ed2a1dbcf3a96777917385fb505844e3",
+    "hash": "004e8132d4dfdee957c79356a046928a01bbb691f1ae187e5c7ac6fd21e6d39e",
+    "nonce": 65
+  }
+]

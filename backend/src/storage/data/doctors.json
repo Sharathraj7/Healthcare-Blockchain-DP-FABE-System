@@ -1,0 +1,40 @@
+[
+  {
+    "id": "96255fc0-7f31-461e-86cc-f5ab1134b052",
+    "name": "Dr. Ravi Kumar",
+    "email": "doctor@example.com",
+    "role": "DOCTOR",
+    "specialization": "CARDIOLOGIST",
+    "hospital": "Demo Hospital",
+    "department": "Cardiology",
+    "licenseNumber": "MCI-2024-001",
+    "isDemo": true,
+    "passwordHash": "$2a$12$tsIsKMjVw8BKhUD/5CPYcO/lDLJ.QWFWFZu5XHHAoCuTAuHDtp1wa",
+    "demoCredentials": {
+      "note": "DEVELOPMENT DEMO ONLY",
+      "email": "doctor@example.com",
+      "password": "DemoDoctor@123"
+    },
+    "createdAt": "2026-10-06T13:21:13.142Z",
+    "updatedAt": "2026-10-06T13:21:13.142Z"
+  },
+  {
+    "id": "bdd95aaa-c0f5-494d-a2b7-9ac190fab846",
+    "name": "Dr. Meena Sharma",
+    "email": "cardiologist@example.com",
+    "role": "DOCTOR",
+    "specialization": "CARDIOLOGIST",
+    "hospital": "City Medical Center",
+    "department": "Cardiology",
+    "licenseNumber": "MCI-2024-002",
+    "isDemo": true,
+    "passwordHash": "$2a$12$fKHkWvO/pDWfN7hog7dY1ugRswxKwqB.qBZzQmfmqS0DulGqTDZ3e",
+    "demoCredentials": {
+      "note": "DEVELOPMENT DEMO ONLY",
+      "email": "cardiologist@example.com",
+      "password": "DemoDoctor@123"
+    },
+    "createdAt": "2026-10-06T13:21:13.477Z",
+    "updatedAt": "2026-10-06T13:21:13.477Z"
+  }
+]
